@@ -1,0 +1,74 @@
+.my-button1{
+    border: .1rem solid #262525;
+    font-size: 1.1rem;
+    padding: .8rem 1.5rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    background: #5db9ee;
+    transition: .5s ease;
+    margin-top: 20px;
+}
+
+.my-button2{
+    border: .1rem solid #262525;
+    font-size: 1.1rem;
+    padding: .8rem 1.5rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    background: #5db9ee;
+    transition: .5s ease;
+    margin-top: 20px;
+}
+.my-button3{
+    border: .1rem solid #262525;
+    font-size: 1.1rem;
+    padding: .8rem 1.5rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    background: #5db9ee;
+    transition: .5s ease;
+    margin-top: 20px;
+}
+.my-button4{
+    border: .1rem solid #262525;
+    font-size: 1.1rem;
+    padding: .8rem 1.5rem;
+    border-radius: .5rem;
+    cursor: pointer;
+    background: #5db9ee;
+    transition: .5s ease;
+    margin-top: 20px;
+}
+.my-button1:nth-child(1){
+    background: #5DB9EE;
+    color: #262525;
+ }
+ .my-button1:nth-child(1):hover{
+    background: yellow;
+    color: #262525;
+ }
+ .my-button2:nth-child(2){
+    background: #5DB9EE;
+    color: #262525;
+ }
+ .my-button2:nth-child(3):hover{
+    background: yellow;
+    color: #262525;
+ }
+ .my-button3:nth-child(4){
+    background: #5DB9EE;
+    color: #262525;
+ }
+ .my-button3:nth-child(5):hover{
+    background: yellow;
+    color: #262525;
+ }
+ .my-button4:nth-child(6){
+    background: #5DB9EE;
+    color: #262525;
+ }
+ .my-button4:nth-child(7):hover{
+    background: yellow;
+    color: #262525;
+ }
+ 
